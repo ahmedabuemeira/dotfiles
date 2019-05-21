@@ -4,4 +4,4 @@ url = git@github.com:zsh-users/zsh-syntax-highlighting.git
 
 [submodule "vendor/gruvbox"]
 	path = vendor/gruvbox
-	url = https://github.com/kmansou/gruvbox
+	url = https://github.com/morhetz/gruvbox
